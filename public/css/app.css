@@ -11852,4 +11852,24 @@ body {
   margin: 0;
 }
 
+.caseGrise {
+  width: 100%;
+  height: 300px;
+  background-color: #e8ebee;
+}
+.caseGrise p {
+  font-weight: 400;
+}
+.caseGrise div {
+  display: flex;
+  justify-content: center;
+}
+.caseGrise div hr {
+  width: 98%;
+  margin-top: -10px;
+}
+.caseGrise p:nth-of-type(3) {
+  margin-top: -13px;
+}
+
 /*# sourceMappingURL=app.css.map */
